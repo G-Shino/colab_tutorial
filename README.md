@@ -1,0 +1,2 @@
+# colab_tutorial
+colabでやったやつ
